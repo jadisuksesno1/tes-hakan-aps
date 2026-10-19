@@ -1,0 +1,6 @@
+{
+  "name": "BugarKu - Olahraga & Nutrisi Sehat",
+  "description": "Aplikasi kebugaran komprehensif dengan panduan gerakan animasi interaktif, rekomendasi menu sehat sesuai kalori, statistik progres visual, integrasi wearable sensor, forum komunitas, dan mode offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
